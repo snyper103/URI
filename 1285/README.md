@@ -17,7 +17,7 @@ Para cada caso de teste imprima um valor inteiro que representa a quantidade má
 |1234 1234         |1               |
 
 ## Requsitos
-É necessário ter ter o compilador de C/C++ intalado em seu computador.
+É necessário ter o compilador de C/C++ instalado em seu computador.
 
 ### Execução
 Basta compilar os arquivos contidos neste repositório e executá-los.
