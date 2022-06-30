@@ -26,7 +26,7 @@ Para cada caso de teste uma linha contendo um caracter. Se existe pelo menos uma
 |180               |Y               |
 
 ## Requsitos
-É necessário ter ter o compilador de C/C++ intalado em seu computador.
+É necessário ter o compilador de C/C++ instalado em seu computador.
 
 ### Execução
 Basta compilar os arquivos contidos neste repositório e executá-los.
