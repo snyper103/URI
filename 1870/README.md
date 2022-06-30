@@ -35,7 +35,7 @@ Para cada caso de teste, imprima, caso o balão tenha passado ileso, a palavra �
 |0 0 0             |BOOM 3 3        |
 
 ## Requsitos
-É necessário ter ter o compilador de C/C++ intalado em seu computador.
+É necessário ter o compilador de C/C++ instalado em seu computador.
 
 ### Execução
 Basta compilar os arquivos contidos neste repositório e executá-los.
