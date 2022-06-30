@@ -25,7 +25,7 @@ Para cada caso de teste uma linha contendo um caracter. Se existe pelo menos uma
 |0                 |Y               |
 |180               |Y               |
 
-## Requsitos
+## Requisitos
 É necessário ter o compilador de C/C++ instalado em seu computador.
 
 ### Execução
